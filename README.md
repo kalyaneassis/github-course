@@ -10,3 +10,4 @@ Testando visualizar versão com a tag git show e git diff antes de add na fase s
 
 Após criar repositório remoto e fazer um git push, agora iremos realizar a primeira alteração/ edição.
 
+Testando edição
